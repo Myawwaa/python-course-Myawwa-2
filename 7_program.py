@@ -47,6 +47,7 @@ elif odpoved == 'ne' or odpoved=="n" or odpoved=="nn" :
 
 else :
     print('broski pis normalne.')
+    time.sleep(4)
     exit()
 
 time.sleep(5)
@@ -76,7 +77,10 @@ if odpoved1=='ano' or odpoved1=="jj" or odpoved1 == 'a' :
 
 elif odpoved1 == 'ne' or odpoved1=="n" or odpoved1=="nn" :
     print('tak didopice')
+    time.sleep(4)
+    exit()
 
 else :
     print('broski pis normalne.')
+    time.sleep(4)
     exit()
