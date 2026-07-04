@@ -1,13 +1,15 @@
-## Můj první (druhy?) vlastní program
+Moje programy a projekty, které tvořím při učení Pythonu.
 
-Program tvori kratke profily a vizitky z otazek, na ktery mu odpovite
+#### Programy
 
-### Co program umí
+### Generátor profilů a vizitek
+Krátký program, který se ptá uživatele na otázky a vytvoří profil nebo vizitku.
 
-- tvorit profil/vizitku,
-- ptat se..
+### Práce s textem
+Program pracující s textem zadaným uživatelem.
 
-### Co jsem si procvičila
+
+## Co jsem si procvičila
 
 - prikazy if, elif a else,
 - time.sleep(),
@@ -15,3 +17,5 @@ Program tvori kratke profily a vizitky z otazek, na ktery mu odpovite
 - promenne,
 - int() a pocitani s cisly,
 - a asi vse...
+
+## README se bude s casem a novymi programy obnovovat.
