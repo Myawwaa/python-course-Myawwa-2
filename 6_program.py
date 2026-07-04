@@ -31,8 +31,10 @@ print('tak ci tak bohuzel to poznat nemuzu prtoze idk jak to mam poznat')
 time.sleep(1)
 print('btw je vek spravne?')
 odpoved1=input('')
-if odpoved1 == "ne" or odpoved1 == "n" :
+if odpoved1 == "ne" or odpoved1 == "n" or odpoved1 == "nn":
     print('tak di tam kde slunce nesviti zmrde')
+    time.sleep(4)
+    exit()
 else :
     print('tak pokracujeme')
     time.sleep(2)
@@ -43,12 +45,12 @@ else :
     print('chces uvadet email a tel. cislo?')
 
     odpoved2=input('')
-    if odpoved2== 'ne' or odpoved2 == "n":
+    if odpoved2== 'ne' or odpoved2 == "n" or odpoved1 == "nn":
         print('oka tak ted.. si muzes vybrat profil jaky chces. ted vazne')
         time.sleep(2)
         print('')
         print('\033[31m!!!POZOR!!!\033[0m')
-        print('\033[31mpis JENOM capslockem a JENOM tyhle pismena... jinak nechces videt co ti to ukaze.\033[0m')
+        print('\033[31mpis JENOM capslockem (i kdyz nemusis lol) a JENOM tyhle pismena... jinak nechces videt co ti to ukaze.\033[0m')
         print('')
         time.sleep(2)
         print('A - profil hrace')
@@ -93,6 +95,7 @@ else :
 
             time.sleep(5)
             print('doufam, ze se ti to libilo! tak zase priste ;)')
+            time.sleep(5)
             exit()
 
         elif odpovedABC=="B" or odpovedABC == "b" :
@@ -137,6 +140,7 @@ else :
 
             time.sleep(5)
             print('doufam, ze se ti to libilo! tak zase priste ;)')
+            time.sleep(5)
             exit()
 
         elif odpovedABC == "c" or odpovedABC== "C" :
@@ -157,15 +161,15 @@ else :
 
             time.sleep(5)
             print('doufam, ze se ti to libilo! tak zase priste ;)')
+            time.sleep(5)
             exit()
 
         else :
             print('tak ses ddebil pis normalne')
+            time.sleep(4)
             exit()
 
 
-
-    # opdoved ano u tel atd
          
     elif odpoved2 == "ano":
      print('tak napis email')
@@ -230,6 +234,7 @@ else :
 
             time.sleep(5)
             print('doufam, ze se ti to libilo! tak zase priste ;)')
+            time.sleep(5)
             exit()
 
     elif odpovedABC=="B" or odpovedABC == "b" :
@@ -280,6 +285,7 @@ else :
 
             time.sleep(5)
             print('doufam, ze se ti to libilo! tak zase priste ;)')
+            time.sleep(5)
             exit()
 
     elif odpovedABC == "c" or odpovedABC== "C" :
@@ -306,8 +312,10 @@ else :
 
             time.sleep(5)
             print('doufam, ze se ti to libilo! tak zase priste ;)')
+            time.sleep(5)
             exit()
 
     else :
          print('broski................ papa')
+         time.sleep(4)
          exit()
