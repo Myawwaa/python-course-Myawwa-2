@@ -16,6 +16,10 @@ Program pracující s textem zadaným uživatelem.
 - input(),
 - promenne,
 - int() a pocitani s cisly,
-- a asi vse...
+- - len(),
+- .lower(),
+- .upper(),
+- .strip(),
+- asi vsechno..
 
 ## README se bude s casem a novymi programy obnovovat.
