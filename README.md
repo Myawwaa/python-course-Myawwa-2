@@ -25,4 +25,4 @@ Program, porovnavajici cisla a texty. Vypise jenom true a false, celkem zbytecny
 - porovnavaci znacky ==, !=, >=, <=,
 - asi vsechno..
 
-##### README se bude s casem a novymi programy obnovovat.
+# README se bude s casem a novymi programy obnovovat.
