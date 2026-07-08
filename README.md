@@ -1,4 +1,4 @@
-# gMoje programy a projekty, které tvořím při učení Pythonu.
+# Moje programy a projekty, které tvořím při učení Pythonu.
 
 #### Programy
 
@@ -14,9 +14,14 @@ Program, porovnavajici cisla a texty. Vypise jenom true a false, celkem zbytecny
 ### Rozhodujici program (10_program.py)
 Program, ktery na zaklade odpovedi dokaze rozhodnout, zda uzivatel projde ci neprojde otazkou. Take celkem zbytecny program nic extra :D
 
+### Vice moznosti a podminky
+Program, ktery reaguje ruzne na odpovedi uzivatele na otazky ohledne teploty, veku apod......
+
 ## Co jsem si procvičila
 
 - prikazy if, elif a else,
+- vice rozhodovacich vetvi,
+- hledani chyb,
 - and a or,
 - time.sleep(),
 - input(),
