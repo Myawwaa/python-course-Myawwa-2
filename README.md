@@ -14,7 +14,7 @@ Program, porovnavajici cisla a texty. Vypise jenom true a false, celkem zbytecny
 ### Rozhodujici program (10_program.py)
 Program, ktery na zaklade odpovedi dokaze rozhodnout, zda uzivatel projde ci neprojde otazkou. Take celkem zbytecny program nic extra :D
 
-### Vice moznosti a podminky
+### Vice moznosti a podminky (11_program.py)
 Program, ktery reaguje ruzne na odpovedi uzivatele na otazky ohledne teploty, veku apod......
 
 ## Co jsem si procvičila
