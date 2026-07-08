@@ -8,6 +8,8 @@ Krátký program, který se ptá uživatele na otázky a vytvoří profil nebo v
 ### Práce s textem
 Program pracující s textem zadaným uživatelem.
 
+### Porovnavani cisel, textu
+Program, porovnavajici cisla a texty. Vypise jenom true a false, celkem zbytecny program xd
 
 ## Co jsem si procvičila
 
@@ -16,10 +18,11 @@ Program pracující s textem zadaným uživatelem.
 - input(),
 - promenne,
 - int() a pocitani s cisly,
-- - len(),
+- len(),
 - .lower(),
 - .upper(),
 - .strip(),
+- porovnavaci znacky ==, !=, >=, <=,
 - asi vsechno..
 
-## README se bude s casem a novymi programy obnovovat.
+##### README se bude s casem a novymi programy obnovovat.
