@@ -17,6 +17,9 @@ Program, ktery na zaklade odpovedi dokaze rozhodnout, zda uzivatel projde ci nep
 ### Vice moznosti a podminky (11_program.py)
 Program, ktery reaguje ruzne na odpovedi uzivatele na otazky ohledne teploty, veku apod......
 
+### textova hra (12_program.py)
+program s vice moznosti, celkem napicu uz jsem se na neho vysrala a neni na konci celkem dokonceny xd 
+
 ## Co jsem si procvičila
 
 - prikazy if, elif a else,
